@@ -1,0 +1,22 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.Scanner;
+
+    class Main {
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+            // start coding here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2721#comment
+status: Failed
+feedback:
+  message: "Failed test #1 of 6. Wrong answer\n\nThis is a sample test from the problem\
+    \ statement!\n\nTest input:\n  string\nstr ing \nCorrect output:\ntrue\n\nYour\
+    \ code output:\nfalse\ntrue\n"
+  time: Fri, 24 Jun 2022 20:06:19 UTC
+record: -1
